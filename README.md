@@ -1,6 +1,6 @@
 # Hi , I'm Wail AMARA 👋
 
-I'm a computer systems engineer Student, FullStack Developer
+# I'm a computer systems engineer Student, FullStack Developer
 
 🌱 I’m currently coding in Java
 
