@@ -12,6 +12,6 @@
 
 ## 📫 How to reach me :
 
-[![LI-In-Bug](https://user-images.githubusercontent.com/64905158/199036948-5bfbfa84-a01c-4a7a-afb5-62695064cdc5.png  | width=100)](https://www.linkedin.com/in/wail-amara-9526a9224/)
+[![LI-In-Bug](https://user-images.githubusercontent.com/64905158/199036948-5bfbfa84-a01c-4a7a-afb5-62695064cdc5.png)](https://www.linkedin.com/in/wail-amara-9526a9224/)
 
 
