@@ -14,4 +14,4 @@
 
 
 [<img align="left" alt="TheMoroccanMimo | Linkedin" width="22px" src="https://www.linkedin.com/in/wail-amara-9526a9224/" color="white" />][Linkedin]
-[Linkedin] : https://user-images.githubusercontent.com/64905158/199056720-f97d15a2-9e3e-485c-adac-5f65adb0ea96.png
+[Linkedin] :https://user-images.githubusercontent.com/64905158/199056720-f97d15a2-9e3e-485c-adac-5f65adb0ea96.png
