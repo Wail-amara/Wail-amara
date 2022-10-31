@@ -13,5 +13,5 @@
 ## 📫 How to reach me :
 
 
-[<img align="left" alt="TheMoroccanMimo | Linkedin" width="22px" src="https://www.linkedin.com/in/wail-amara-9526a9224/" color="white" />][Linkedin]
-[Linkedin] :https://user-images.githubusercontent.com/64905158/199056720-f97d15a2-9e3e-485c-adac-5f65adb0ea96.png
+[<img align="left" alt="TheMoroccanMimo | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/.svg" color="white" />][Linkedin]
+[Linkedin] : https://www.linkedin.com/in/wail-amara-9526a9224/
