@@ -8,7 +8,7 @@
 
 🥅 Goals: Getting my Degree and Working with clients
 
-⚡ Fun fact:  I'll become a business owner in the next few years
+⚡ Fun fact:  I'll create my own development company in the next few years
 
 ## 📫 How to reach me :
 
