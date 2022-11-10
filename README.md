@@ -13,5 +13,4 @@
 ## 📫 How to reach me :
 
 
-[<img align="left" alt="TheMoroccanMimo | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/.svg" color="white" />][Linkedin]
-[Linkedin] : https://www.linkedin.com/in/wail-amara-9526a9224/
+<img align="left" alt="gitlab" width="42px" src="/AymanMak1/AymanMak1/raw/master/icons/gitlab.png" style="max-width: 100%;">
